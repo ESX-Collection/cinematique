@@ -1,3 +1,7 @@
+fx_version 'adamant'
+
+game 'gta5'
+
 client_scripts {
     'client/client.lua'
 }
@@ -10,4 +14,3 @@ files {
     'html/css/app.css',
     'html/scripts/app.js'
 }
-
